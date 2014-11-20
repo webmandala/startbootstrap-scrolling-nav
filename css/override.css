@@ -6,3 +6,11 @@
   max-height: 500px;
   overflow-y: hidden;
 }
+
+
+section {
+    height: 100%;
+    padding-top: 50px;
+    text-align: center;
+    background: #fff;
+}
